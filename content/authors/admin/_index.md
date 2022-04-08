@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 南昌大学
+    url: https://www.ncu.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
