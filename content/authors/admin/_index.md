@@ -1,7 +1,7 @@
 ---
 title: 费林峰
 role: 理学博士
-avatar_filename: ef63c41012c1467998a6b06214768aef.png
+avatar_filename: http://spms.ncu.edu.cn/images/2022-03/ef63c41012c1467998a6b06214768aef.png
 bio: 于中国科学技术大学化学系取得本科学位，后于香港理工大学应用物理学系相继取得硕士、博士学位。博士毕业后，在香港理工大学继续从事博士后研究。2018年加入南昌大学材料学院。
 interests:
   - Artificial Intelligence
