@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: 费林峰
 role: Professor of Artificial Intelligence
 avatar_filename: ef63c41012c1467998a6b06214768aef.png
 bio: My research interests include distributed robotics, mobile computing and
