@@ -28,13 +28,13 @@ organizations:
     url: https://www.ncu.edu.cn/
 education:
   courses:
-    - course: 本科学位
+    - course: " "
       institution: 中国科学技术大学
       year: 20
-    - course: 硕士、博士学位
+    - course: " "
       institution: 香港理工大学
       year: 20
-    - course: 教授（博导）
+    - course: " "
       institution: 南昌大学
       year: 2018
 email: ""
