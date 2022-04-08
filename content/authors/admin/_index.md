@@ -28,15 +28,15 @@ organizations:
     url: https://www.ncu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 本科学位
+      institution: 中国科学技术大学
+      year: 20
+    - course: 硕士、博士学位
+      institution: 香港理工大学
+      year: 20
+    - course: 教授（博导）
+      institution: 南昌大学
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
